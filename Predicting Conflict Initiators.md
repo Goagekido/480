@@ -1,1 +1,1 @@
-<center># Predicting Interstate Conflict Initiation by China, Iran, or Russia</center>
+<p align="center"># Predicting Interstate Conflict Initiation by China, Iran, or Russia</p>
