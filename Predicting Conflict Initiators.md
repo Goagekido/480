@@ -1,2 +1,2 @@
 <h1 align="center">Predicting Interstate Conflict Initiation by China, Iran, or Russia</h1>
-<p align="center">Christian Davis & Mark Mathies</p>
+<h3 align="center">Christian Davis & Mark Mathies</h3>
