@@ -22,7 +22,7 @@
 </ul>
 
 <h3>Necessary Visualizations:</h3>
-<img src="https://dukesjmuedu-my.sharepoint.com/:i:/g/personal/daviscj_dukes_jmu_edu/Ef9Qiro9xZVAqejO2QMvxUIBSkve3gdguDMaFUXA89SzOQ?e=T3gjLw" style="width:128px;height:128px;">
+<img src="https://dukesjmuedu-my.sharepoint.com/:i:/g/personal/daviscj_dukes_jmu_edu/Ef9Qiro9xZVAqejO2QMvxUIBSkve3gdguDMaFUXA89SzOQ?e=BVaBoG.png" style="width:128px;height:128px;">
 
 <h3>Model Used and Justification:</h3>
 
