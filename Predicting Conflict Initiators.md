@@ -8,12 +8,12 @@
 <p>The COW project was founded by J. David Singer, a professor from the University of Michigan, in 1963 and is used for academic study on war. This dataset has quantitative and qualitative data on all global interstate conflict between the years 1816-2007, such as:</p>
 <ul>
   <li>War names</li>
-  <li>what states were involved</li>
+  <li>What states were involved</li>
   <li>Which side the states were on</li>
-  <li>who initiated</li>
+  <li>Who initiated</li>
   <li>Where the war was fought</li>
-  <li>the outcome of the war</li>
-  <li>the year it started/ended</li>
+  <li>Outcome of the war</li>
+  <li>Year it started/ended</li>
   <li>How many people died for each state</li>
   <li>Military expenditure for each state (some in US dollars, some in British pounds)</li>
   <li>Military personnel</li>
