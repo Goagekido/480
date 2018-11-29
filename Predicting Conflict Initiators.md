@@ -22,7 +22,7 @@
 </ul>
 
 <h3>Necessary Visualizations:</h3>
-<img src="C:/Users/mathi2ma/OneDrive - James Madison University (Dukes)/Machine_Learning/Final/total_pop by enlisted_pop as initiators.png" alt="description" style="width:128px;height:128px;">
+<img src="Downloads/total_pop by enlisted_pop as initiators.png" alt="description" style="width:128px;height:128px;">
 
 <h3>Model Used and Justification:</h3>
 
