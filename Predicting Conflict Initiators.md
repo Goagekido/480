@@ -22,7 +22,7 @@
 </ul>
 
 <h3>Necessary Visualizations:</h3>
-<img src="Downloads/total_pop by enlisted_pop as initiators.png" alt="description" style="width:128px;height:128px;">
+<img src="Downloads/total_pop by enlisted_pop as initiators.png" style="width:128px;height:128px;">
 
 <h3>Model Used and Justification:</h3>
 
