@@ -5,9 +5,7 @@
 <p>While researching for our Capstone Project on future global interstate conflict, we found a data set called “Correlates of War” (COW). With this dataset, we could try to use machine learning to predict whether a country, specifically China, Iran, and Russia, could initiate an interstate conflcit in the future. Therefore, our research problem is: “How can we use machine learning to predict whether Iran, Russia, or China may initiate future interstate conflict?”</p>
 
 <h3>Description of the Data:</h3>
-<p>The COW project was founded by J. David Singer, a professor from the University of Michigan, in 1963 and is used for academic study on war. This dataset has quantitative and qualitative data on all global interstate conflict between the years 1816-2007, such as: War names, what states were involved, Which side the states were on, who initiated, Where the war was fought, the outcome of the war, the year it started/ended, How many people died for each state, Military expenditure for each state (some in US dollars, some in British pounds), Military personnel, State resource production, and State demographics.</p>
-
-<h3>Necessary Visualizations:</h3>
+<p>The COW project was founded by J. David Singer, a professor from the University of Michigan, in 1963 and is used for academic study on war. This dataset has quantitative and qualitative data on all global interstate conflict between the years 1816-2007, such as:</p>
 <ul>
   <li>War names</li>
   <li>what states were involved</li>
@@ -22,3 +20,5 @@
   <li>State resource production</li>
   <li>State demographics</li>
 </ul>
+
+<h3>Necessary Visualizations:</h3>
