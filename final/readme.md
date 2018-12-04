@@ -26,6 +26,10 @@
 <p>Total popualtion vs. Total Military Enlistment (and its relation to Initiation)</p>
 <img src="pop_enlist.PNG" style="width:128px;height:128px;">
 
+<p>Actual History of Conflcit by Initiation vs. Precition of History of Conflcit by Initiation</p>
+<img src="historical_conflict.PNG" style="width:128px;height:128px;">
+<img src="historical_conflict_predicted.PNG" style="width:128px;height:128px;">
+
 <h3>Model Used and Justification:</h3>
 
 
