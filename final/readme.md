@@ -22,10 +22,8 @@
   <li>State demographics</li>
 </ul>
 <p>To identify whether the three states will initiate war in the future, we compared the historical COW data with China's, Russia's, and Iran's current data (year 2016). We gathered total population, urban popualtion, and military personnel from the WorldBank, and gathered iron steel production data from the Wolrd Steel Association.</p>
-<h3>Necessary Visualizations:</h3>
-<h4>Total popualtion vs. Total Military Enlistment (and its relation to Initiation)</h4>
-<img src="pop_enlist.PNG" style="width:128px;height:128px;">
 
+<h3>Necessary Visualizations:</h3>
 <h4>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h4>
 <p>Actual:</p>
 <img src="historical_conflict.PNG" style="width:128px;height:128px;">
