@@ -23,8 +23,8 @@
 </ul>
 
 <h3>Necessary Visualizations:</h3>
-<p>
-<img src="enlisted_personel_CINC.PNG" style="width:128px;height:128px;">
+<p>Total popualtion vs. Total Military Enlistment (and its relation to Initiation)</p>
+<img src="pop_enlist.PNG" style="width:128px;height:128px;">
 
 <h3>Model Used and Justification:</h3>
 
