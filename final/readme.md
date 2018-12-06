@@ -51,7 +51,15 @@
 <img src="Inside_validation.PNG" style="width:128px;height:128px;">
 <p align="center"><i>The inside of the validation rule.</i></p>
 
-<p>Talk about the decision-tree image and prediction</p>
+<p>Parameters:</p>
+<ul>
+  <li>50 trees</li> 
+  <li>max of depth: 70</li>
+  <li>prepruning:</li> 
+    <li>min gain of 0.0</li> 
+    <li>min leaf size of 2</li> 
+    <li>min split 4</li> 
+    <li>num of alternatives 5</li>
 
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
