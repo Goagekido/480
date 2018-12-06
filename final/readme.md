@@ -26,7 +26,7 @@
 <h4>Exploring the Data:</h4>
 <p>In order to explore the data and identify possible patterns, we had to merge the COW dataset containing state demographics and the COW dataset detailing militarized interstate conflict using SQL. After this, we removed rows of data where a cell was unknown and removed columns unnecessary to the machine learning process. The resulting table of clean data can be found <a href="https://docs.google.com/spreadsheets/d/1wyEdx6CtPUkO7GSa9e6o4iKUGw9eB_Jp-G_9HkeXADs/edit?usp=sharing">here</a>. Using this, we wanted to visualize how intestate conflict has been historically initiated. Afterward, we explored the data to find various insights and found the majority of conflicts occured at low populations, as well as that those with low populations were far higher likely of having conflict initiated against them.</p>
 
-<h5>Frequency of Conflict by Total Population</h5>
+<h5 align="center">Frequency of Conflict by Total Population</h5>
 <img src="freq_conflict_by_pop.PNG" style="width:128px;height:128px;">
 
 <h3>Model Used and Justification:</h3>
