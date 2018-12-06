@@ -45,7 +45,6 @@
 <p align="center"><i>The accuracy and kappa of the testing data for the Random Forest model.</i></p>
 
 <h4>Process:</h4>
-<p>Talk about model process and parameters</p>
 <img src="Process.PNG" style="width:128px;height:128px;">
 <p align="center"><i>A xml of this process for recreation purposes can be found <a href="Random_Forest_Process.xml">here</a>.</i></p>
 <img src="Inside_validation.PNG" style="width:128px;height:128px;">
@@ -63,6 +62,7 @@
     <li>number of alternatives: 5</li></ul>
 </ul>
 
+<p>After building the model, we wanted to compare the model's predictions to the actual data. As you can see below, the model predicted that conflicts were initiated far less than the actual results.</p>
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
 <img src="historical_conflict.PNG" style="width:128px;height:128px;">
