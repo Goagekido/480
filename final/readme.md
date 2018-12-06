@@ -39,6 +39,7 @@
 
 <h3>References:</h3>
 <ul>
+ <li><a href="https://docs.google.com/spreadsheets/d/1WI4fUjQMYAuqs0Nz9C6qdxPKz--uwpoRYRBe4IQqydQ/edit?usp=sharing">Clean COW Dataset</a></li>
  <li><a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a></li>
  <li><a href="https://www.worldbank.org/">World Bank Group</a></li>
  <li><a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a></li>
