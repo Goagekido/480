@@ -35,6 +35,7 @@
 <h4>Process:</h4>
 <p> Talk about model process and parameters</p>
 <img src="Process.PNG" style="width:128px;height:128px;">
+
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
 <img src="historical_conflict.PNG" style="width:128px;height:128px;">
