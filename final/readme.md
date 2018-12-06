@@ -36,6 +36,7 @@
 <p>Talk about model process and parameters</p>
 <img src="Process.PNG" style="width:128px;height:128px;">
 <p>A xml of this process for recreation purposes can be found <a href="Random_Forest_Process.xml">here</a>.</p>
+<p>Talk about the decision-tree image</p>
 
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
@@ -46,6 +47,7 @@
 <h3>Results:</h3>
 <p>The Random Forest model predicted that all three states would initiate conflict by 2019.</p>
 <img src="Predicted_Results.PNG" style="width:128px;height:128px;">
+
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
 <h3>References:</h3>
