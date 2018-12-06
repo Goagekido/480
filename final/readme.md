@@ -45,7 +45,7 @@
 
 <h3>Results:</h3>
 <p>The Random Forest model precited that all three states would initiate conlcit by 2019.</p>
-
+<img src="Predicted_Results.PNG" style="width:128px;height:128px;">
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
 <h3>References:</h3>
