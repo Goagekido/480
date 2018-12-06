@@ -36,7 +36,7 @@
 
 <p>However, the Decision-tree model greatly overfit the data even after pruning and pre-pruning attempts. Because of this, we decided to shift to a Random Forest model because the random forest model combines calculations from several different Decision Trees. Ultimately, we were able to significantly decrease the effects of overfitting on our model.</p>
 
-<p>INSERT PERFORMANCE AND KAPPA HERE</p>
+<img src="A_Testing.PNG" style="width:128px;height:128px;">
 
 <h4>Process:</h4>
 <p>Talk about model process and parameters</p>
