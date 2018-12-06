@@ -23,7 +23,6 @@
 </ul>
 <p>To identify whether the three states will initiate war in the future, we compared the historical COW data with China's, Russia's, and Iran's current data (year 2016). We gathered total population, urban population, and military personnel data from the <a href="https://www.worldbank.org/">World Bank Group</a>, and gathered iron steel production data from the <a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a>.</p>
 
-<h3>Necessary Visualizations:</h3>
 <h4>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h4>
 <p>Actual:</p>
 <img src="historical_conflict.PNG" style="width:128px;height:128px;">
