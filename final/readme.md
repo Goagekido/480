@@ -40,8 +40,10 @@
 
 <h4>Process:</h4>
 <p>Talk about model process and parameters</p>
-<img src="Process.PNG" style="width:128px;height:128px;">
-<caption>A xml of this process for recreation purposes can be found <a href="Random_Forest_Process.xml">here</a>.</caption>
+<figure>
+  <img src="Process.PNG" style="width:128px;height:128px;">
+  <figcaption>A xml of this process for recreation purposes can be found <a href="Random_Forest_Process.xml">here</a>.</figcaption>
+</figure>
 
 <p>Talk about the decision-tree image and prediction</p>
 
