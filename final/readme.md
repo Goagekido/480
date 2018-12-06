@@ -50,7 +50,7 @@
 <img src="Inside_validation.PNG" style="width:128px;height:128px;">
 <p align="center"><i>The inside of the validation rule.</i></p>
 
-<p>Parameters:</p>
+<h5>Parameters:</h5>
 <ul>
   <li>50 trees</li> 
   <li>maximal depth of 70 features</li>
@@ -74,8 +74,7 @@
 <img src="Predicted_Results.PNG" style="width:128px;height:128px;">
 
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
-<p>In conclusion, using COW, World Bank, and World Steel Association data, we were able to use machine learning to predict that China, Russia, and Iran will initiate conflict by 2019. There are a few limitations associated with this conclusion. First, the model fails to consider that there needs to be at least one coutnry that initiates conflict. Second, making a prediction based off this data is too simple, as there are a lot more factors involved in initiating interstate conflict that have no been considered for this project. Finally, this this model cannot be applied further into the future due to the limitation of not having more readily available current data.</p>
-<p>Suggestions for improvement include acquiring more data, as well as having more time to work on the model.</p>
+<p>In conclusion, using COW, World Bank, and World Steel Association data, we were able to use machine learning to predict that China, Russia, and Iran will initiate conflict by 2019. There are a few limitations associated with this conclusion. First, the model fails to consider that there needs to be at least one country that initiates conflict. Second, making a prediction based off this data is too simple, as there are a lot more factors involved in initiating interstate conflict that have no been considered for this project. Finally, this model cannot be applied further into the future due to the limitation of not having more readily available current data. Suggestions for improvement include acquiring more data, as well as having more time to work on the model.</p>
 
 <h3>References:</h3>
 <ul>
