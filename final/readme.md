@@ -56,10 +56,12 @@
   <li>50 trees</li> 
   <li>max of depth: 70</li>
   <li>prepruning:</li> 
+  <ul>
     <li>min gain of 0.0</li> 
     <li>min leaf size of 2</li> 
     <li>min split 4</li> 
-    <li>num of alternatives 5</li>
+    <li>num of alternatives 5</li></ul>
+</ul>
 
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
