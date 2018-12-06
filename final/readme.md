@@ -70,10 +70,12 @@
 <img src="historical_conflict_predicted.PNG" style="width:128px;height:128px;">
 
 <h3>Results:</h3>
-<p>The Random Forest model predicted that all three states would initiate conflict by 2019.</p>
+<p>The Random Forest model predicted that all three states would initiate conflict by 2019. The confidence level that the prediction is false for China is 0.128, and that the prediction is true is 0.872. Respectively, the confidence level for Iran is 0.310/0.690. Finally, for Russia it is 0.222/0.778.</p>
 <img src="Predicted_Results.PNG" style="width:128px;height:128px;">
 
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
+<p>In conclusion, using COW, World Bank, and World Steel Association data, we were able to use machine learning to predict that China, Russia, and Iran will initiate conflict by 2019. There are a few limitations associated with this conclusion. First, the model fails to consider that there needs to be at least one coutnry that initiates conflict. Second, making a prediction based off this data is too simple, as there are a lot more factors involved in initiating interstate conflict that have no been considered for this project. Finally, this this model cannot be applied further into the future due to the limitation of not having more readily available current data.</p>
+<p>Suggestions for improvement include acquiring more data, as well as having more time to work on the model.</p>
 
 <h3>References:</h3>
 <ul>
