@@ -24,7 +24,7 @@
 <p>To identify whether the three states will initiate war in the future, we compared the historical COW data with China's, Russia's, and Iran's current data (year 2016). We gathered total population, urban population, and military personnel data from the <a href="https://www.worldbank.org/">World Bank Group</a>, and gathered iron steel production data from the <a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a>.</p>
 
 <h4>Exploring the Data:</h4>
-<p>We cleaned and explored the data to identify possible patterns and visualize how intestate conflict has been initiated in the past. To gauge how the model would perform with the data, we compared how interstate conflict has been initiated historically with how the model predicted historical conflict initiation.</p>
+<p>In order to explore the data and identify possible patterns, we had to merge the COW dataset containing state demographics and the COW dataset detailing militarized interstate conflict using SQL. After this, we removed rows of data where a cell was unknown, and removed columns unnecessary to the machine learning process. The resulting table of clean data can be found here <a href="https://docs.google.com/spreadsheets/d/1WI4fUjQMYAuqs0Nz9C6qdxPKz--uwpoRYRBe4IQqydQ/edit?usp=sharing">(Clean COW Dataset)</a>. Using this, we wanted to visualize how intestate conflict has been historically initiated. To gauge how the model would perform with the data, we compared how interstate conflict has been initiated historically with how the model predicted historical conflict initiation.</p>
 
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
