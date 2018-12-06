@@ -37,7 +37,7 @@
 
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
-<h3>Sources:</h3>
+<h3>References:</h3>
 <ul>
  <li><a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a></li>
  <li><a href="https://www.worldbank.org/">World Bank Group</a></li>
