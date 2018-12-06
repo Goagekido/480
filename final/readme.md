@@ -21,7 +21,7 @@
   <li>State resource production</li>
   <li>State demographics</li>
 </ul>
-<p>To identify whether the three states will initiate war in the future, we compared the historical COW data with China's, Russia's, and Iran's current data (year 2016). We gathered total population, urban popualtion, and military personnel from the WorldBank, and gathered iron steel production data from the Wolrd Steel Association.</p>
+<p>To identify whether the three states will initiate war in the future, we compared the historical COW data with China's, Russia's, and Iran's current data (year 2016). We gathered total population, urban popualtion, and military personnel from the WorldBank, and gathered iron steel production data from the World Steel Association.</p>
 
 <h3>Necessary Visualizations:</h3>
 <h4>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h4>
@@ -38,6 +38,11 @@
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
 <h3>Sources:</h3>
+<p>Source 1:</p>
 <a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a>
+
+<p>Source 2:</p>
 <a href="https://www.worldbank.org/">World Bank Group</a>
-<a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">Wolrd Steel Association</a>
+
+<p>Source 3:</p>
+<a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a>
