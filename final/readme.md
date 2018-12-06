@@ -38,11 +38,8 @@
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
 <h3>Sources:</h3>
-<p>Source 1:</p>
-<a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a>
-
-<p>Source 2:</p>
-<a href="https://www.worldbank.org/">World Bank Group</a>
-
-<p>Source 3:</p>
-<a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a>
+<ul>
+ <li><a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a></li>
+ <li><a href="https://www.worldbank.org/">World Bank Group</a></li>
+ <li><a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">World Steel Association</a></li>
+</ul>
