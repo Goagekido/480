@@ -44,7 +44,7 @@
 <img src="historical_conflict_predicted.PNG" style="width:128px;height:128px;">
 
 <h3>Results:</h3>
-<p>The Random Forest model precited that all three states would initiate conlcit by 2019.</p>
+<p>The Random Forest model predicted that all three states would initiate conflict by 2019.</p>
 <img src="Predicted_Results.PNG" style="width:128px;height:128px;">
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
 
