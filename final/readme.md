@@ -33,8 +33,9 @@
 <p>We used a Random Forest model to predict whether China, Iran, or Russia would initiate future interstate conflict. Initially we thought a Neural Network (NN) model or Decision-Tree model would work best for this data. This is because we had a lot of variables that included inputs, weights, and wanted predicted outcomes. The Decision-tree model worked better than the NN model because our inputs had very different features (some quantitative, some qualitative). However, we found the Random Forest model to work best as it </p>
 
 <h4>Process:</h4>
-<p> Talk about model process and parameters</p>
+<p>Talk about model process and parameters</p>
 <img src="Process.PNG" style="width:128px;height:128px;">
+<p>A xml of this process for recreation purposes can be found <a href="Random_Forest_Process.xml">here</a>.</p>
 
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
