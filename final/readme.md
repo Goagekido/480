@@ -26,15 +26,17 @@
 <h4>Exploring the Data:</h4>
 <p>In order to explore the data and identify possible patterns, we had to merge the COW dataset containing state demographics and the COW dataset detailing militarized interstate conflict using SQL. After this, we removed rows of data where a cell was unknown, and removed columns unnecessary to the machine learning process. The resulting table of clean data can be found here <a href="https://docs.google.com/spreadsheets/d/1WI4fUjQMYAuqs0Nz9C6qdxPKz--uwpoRYRBe4IQqydQ/edit?usp=sharing">(Clean COW Dataset)</a>. Using this, we wanted to visualize how intestate conflict has been historically initiated. To gauge how the model would perform with the data, we compared how interstate conflict has been initiated historically with how the model predicted historical conflict initiation.</p>
 
+<img src="historical_conflict.PNG" style="width:128px;height:128px;">
+
+<h3>Model Used and Justification:</h3>
+<p>We used a Random Forest model to predict whether China, Iran, or Russia would initiate future interstate conflict. Initially we thought a Neural Network (NN) model or Decision-Tree model would work best for this data. This is because we had a lot of variables that included inputs, weights, and wanted predicted outcomes. The Decision-tree model worked better than the NN model because our inputs had very different features (some quantitative, some qualitative). However, we found the Random Forest model to work best as it </p>
+
+<h4>Process:</h4>
 <h5>Actual History of Conflict by Initiation vs. Prediction of History of Conflict by Initiation</h5>
 <p>Actual:</p>
 <img src="historical_conflict.PNG" style="width:128px;height:128px;">
 <p>Predicted:</p>
 <img src="historical_conflict_predicted.PNG" style="width:128px;height:128px;">
-
-<h3>Model Used and Justification:</h3>
-<p>We used a Random Forest model to predict whether China, Iran, or Russia would initiate future interstate conflict. Initially we thought a Neural Network (NN) model or Decision-Tree model would work best for this data. This is because we had a lot of variables that included inputs, weights, and wanted predicted outcomes. The Decision-tree model worked better than the NN model because our inputs had very different features (some quantitative, some qualitative). However, we found the Random Forest model to work best as it </p>
-
 <h3>Results:</h3>
 
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
