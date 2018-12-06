@@ -36,3 +36,8 @@
 <h3>Results:</h3>
 
 <h3>Conclusion, Limitations, and Suggestions for Improvement:</h3>
+
+<h3>Sources:</h3>
+<a href="http://www.correlatesofwar.org/data-sets">Correlates of War Project</a>
+<a href="https://www.worldbank.org/">World Bank Group</a>
+<a href="https://www.worldsteel.org/en/dam/jcr:f9359dff-9546-4d6b-bed0-996201185b12/World+Steel+in+Figures+2018.pdf ">Wolrd Steel Association</a>
